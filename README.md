@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 ```markdown
 # Détection de Fraude par Carte de Crédit avec l'IA pour MattonSecure
 
