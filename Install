@@ -1,0 +1,3 @@
+clonner le depot 
+Installer toutes les bibliothèques du fichiers riquierements.txt
+ouvrir le fichier app.py et lancer le terminal saisir python -m streamlit run app.py pour avoir accès a l'application
